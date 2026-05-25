@@ -80,7 +80,7 @@ A Minecraft mod that adds a radioactive material uranium to the game.
     side="BOTH"
 
 # Here's another dependency
-[[dependencies.uranium and stuff]]
+[[dependencies.uraniumandstuff]]
     modId="minecraft"
     type="required"
     # This version range declares a minimum of the current minecraft version up to but not including the next major version
