@@ -1,3 +1,9 @@
 {
+  "creativetab.uraniumandstuff.uraniumandstuff": "Uranium and Stuff",
 
+  "item.uraniumandstuff.uranium": "Uranium Ingot",
+  "item.uraniumandstuff.raw_uranium": "Raw Uranium",
+
+  "block.uraniumandstuff.uranium_block": "Block of Uranium",
+  "block.uraniumandstuff.uranium_ore": "Uranium Ore"
 }
